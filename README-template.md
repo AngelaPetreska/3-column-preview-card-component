@@ -4,10 +4,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Screenshot ![desktop-preview](image.png) ![mobile-preview](image-1.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/AngelaPetreska/3-column-preview-card-component)
+- Live Site URL: [Add live site URL here](https://angelapetreska.github.io/3-column-preview-card-component/)
 
 ## Author
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub profile - [Angela Petreska](https://github.com/AngelaPetreska)
+- Frontend Mentor profile - [@AngelaPetreska](https://www.frontendmentor.io/profile/AngelaPetreska)
